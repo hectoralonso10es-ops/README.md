@@ -7,7 +7,7 @@ Este proyecto trata sobre hacer una red local para una asesoría con 6 trabajado
 La red tiene:
 - 6 ordenadores  
 - 1 impresora  
-- 1 switch  
+- 2 switch  
 - 1 router con acceso a internet  
 
 ## Planificación
